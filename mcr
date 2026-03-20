@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-sh|sh #mcr - reader macros - coyright john morris beck 2026 licensed gpl2
+mcr(){ sh|sh;};#coyright john morris beck 2026 licensed gpl2
